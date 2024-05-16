@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  Titanic-Project|  This initial phase focuses on understanding the project objectives and requirements from a business perspective, and then converting this knowledge into a data mining problem definition, and a preliminary plan designed to achieve the objectives. I completed an analysis of what people who survived. | [Link to repo](https://github.com/Wisdom-EdemD-rah/Titanic-Project.git)  |
+| 2 |  Dollar-Tree-Project-Work    |  The data set is about the sales of items on the Dollar Tree Website. The task was to train one (1) classification algorithm (K-Nearest Neighbours, Stochastic Gradient Descent, Naïve Bayes, etc.) to predict the product category based on the other features.             | [Link to repo](https://github.com/Wisdom-EdemD-rah/Dollar-Tree-Project-Work.git)       |
+| 3 |  Database-Connector-Case-Study             |  Analysing and Visualising a Sakila Database by connecting to a remote database using Python Code             | [Link to repo](https://github.com/Wisdom-EdemD-rah/Database-Connector-Case-Study-.git)       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
